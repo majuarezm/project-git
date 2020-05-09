@@ -1,6 +1,6 @@
-# Titulo de mi proyecto
-## Mi subtitulo
-* Esta
-* Es
-* Mi
-* Lista
+# Project Git
+## Explore Git
+* lorem
+* Lorem
+* Lorem
+* Lorem
